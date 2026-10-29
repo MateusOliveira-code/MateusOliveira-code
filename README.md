@@ -2,11 +2,12 @@
   <p>🎓 Estudante de Sistemas de Informação | Atualmente Analista de Auditoria</p>
   <p>💡 Foco em Desenvolvimento Mobile, Clean UI e Aprendizado Contínuo</p>
 
-  <a href="https://www.linkedin.com/in/mateusoliveira05" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+ <a href="https://www.linkedin.com/in/mateusoliveira05" target="_blank">
+    <img src="https://www.svgrepo.com/show/20829/linkedin.svg" alt="LinkedIn" width="40">
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:git.mateusoliveira05@gmail.com">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://www.svgrepo.com/show/324184/oneline-gmail-icon-mailbox.svg" alt="Gmail" width="40">
   </a>
 </div>
 
