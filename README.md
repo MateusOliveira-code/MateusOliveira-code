@@ -1,4 +1,11 @@
 <div align="center">
+
+## <h1>  *Me chamo Mateus Almeida Oliveira* </h1>
+
+</div>
+
+
+<div align="center">
   <p>🎓 Estudante de Sistemas de Informação | Atualmente Analista de Auditoria</p>
   <p>💡 Foco em Desenvolvimento Mobile, Clean UI e Aprendizado Contínuo</p>
 
@@ -13,7 +20,7 @@
 
 <br>
 
-## 👨‍💻 Sobre mim & Tecnologias
+##  Sobre mim & Tecnologias
 Sou um entusiasta de tecnologia com experiência em processos de auditoria e paixão por desenvolvimento de software, buscando sempre aplicar as melhores práticas de UI/UX e automação de tarefas com IA.
 
 - 📱 **Mobile:** Flutter, Dart
@@ -22,13 +29,18 @@ Sou um entusiasta de tecnologia com experiência em processos de auditoria e pai
 
 ---
 
-## 🚀 Projetos Principais
+##  Projetos Principais
 
-
+💈 [**Sistema de Barbearia — Projeto acadêmico**](https://github.com/Devjotave/barbearia-tpi2)
+> Protótipo de sistema administrativo para uma barbearia, com módulos voltados a clientes, profissionais, serviços, produtos e agendamentos. Projeto desenvolvido no contexto da disciplina de Tecnologias para Internet II. O banco de dados faz parte do planejamento, mas não está implementado nessa etapa.
+> 
+> **Tecnologias:** HTML, CSS, JavaScript e PHP.
+>
+> 🔗 [Acessar repositório](https://github.com/Devjotave/barbearia-tpi2)
 
 ---
 
-## 📫 Contato
+##  Contatos
 
 - 💼 **LinkedIn:** [mateusoliveira05](https://www.linkedin.com/in/mateusoliveira05)
 - 📧 **E-mail:** [git.mateusoliveira05@gmail.com](mailto:git.mateusoliveira05@gmail.com)
