@@ -1,19 +1,13 @@
 <div align="center">
-  
-  <h1>Olá, me chamo Mateus Almeida Oliveira!</h1>
-
-  <hr>
-
   <p>🎓 Estudante de Sistemas de Informação | Atualmente Analista de Auditoria</p>
   <p>💡 Foco em Desenvolvimento Mobile, Clean UI e Aprendizado Contínuo</p>
 
   <a href="https://www.linkedin.com/in/mateusoliveira05" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:git.mateusoliveira05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-
 </div>
 
 <br>
